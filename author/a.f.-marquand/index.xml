@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.F. Marquand | Richard Dinga</title>
+    <link>/author/a.f.-marquand/</link>
+      <atom:link href="/author/a.f.-marquand/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.F. Marquand</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>A.F. Marquand</title>
+      <link>/author/a.f.-marquand/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the evidence for biotypes of depression: Methodological replication and extension of Drysdale et al. (2017)</title>
+      <link>/publication/dinga-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/dinga-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the naturalistic course of depression from a wide range of clinical, psychological, and biological data: a machine learning approach</title>
+      <link>/publication/dinga-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/dinga-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
